@@ -1,0 +1,9 @@
+{
+    "adminRegistration": {
+        "name": "Janith Admin",
+        "email": "admin21@geoclean.com",
+        "phone": "0771231567",
+        "password": "SecurePass123!",
+        "secretKey": "super_secret_key_123"
+    }
+}
